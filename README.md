@@ -4,7 +4,7 @@ A lightweight networking lab simulator built using Linux network namespaces.
 
 ## Why This Tool?
 Traditional labs require multiple VMs and high RAM.
-NetLab Builder creates full network topologies using the Linux kernel only.
+ZedNetLab Builder creates full network topologies using the Linux kernel only.
 
 ## Features
 - Namespace-based virtual machines
