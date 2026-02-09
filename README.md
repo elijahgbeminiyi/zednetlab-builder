@@ -20,4 +20,4 @@ NetLab Builder creates full network topologies using the Linux kernel only.
 
 ## Usage
 ```bash
-sudo ./netlab.sh
+sudo ./zednetlab.sh
